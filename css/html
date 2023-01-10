@@ -1,0 +1,45 @@
+<div class="NavBarstyled__NavbarWrapper-sc-et7lxk-0 gGGJrk">
+    <div type="header" class="WM_GLOBAL_secondary-font header-nav-bar NavBarstyled__Container-sc-et7lxk-1 bgNfco">
+        <div class="porjectLinksDesktop ProjectLinksstyled__Desktop-sc-1akbv98-2 dmCCnd">
+            <nav class="ProjectLinksstyled__LinkContainer-sc-1akbv98-1 bCUCJP">
+                <div class="ProjectLinksstyled__Wrap-sc-1akbv98-0 dSNEFa">
+                    <div class="link-wrapper ">
+                        <a id="header_link_0" class=" link"
+                            href="/website-maker/preview/lang/template/117/?backUrl=ar%2Fwebsites%2Fpersonal#comp-17218615a9b">About</a>
+                    </div>
+                </div>
+                <div class="ProjectLinksstyled__Wrap-sc-1akbv98-0 dSNEFa">
+                    <div class="link-wrapper ">
+                        <a id="header_link_1" class=" link"
+                            href="/website-maker/preview/lang/template/117/?backUrl=ar%2Fwebsites%2Fpersonal#comp-172094118aa">Skills</a>
+                    </div>
+                </div>
+                <div class="ProjectLinksstyled__Wrap-sc-1akbv98-0 dSNEFa">
+                    <div class="link-wrapper ">
+                        <a id="header_link_2" class=" link"
+                            href="/website-maker/preview/lang/template/117/?backUrl=ar%2Fwebsites%2Fpersonal#comp-17209502703">Experience</a>
+                    </div>
+                </div>
+                <div class="ProjectLinksstyled__Wrap-sc-1akbv98-0 dSNEFa">
+                    <div class="link-wrapper ">
+                        <a id="header_link_3" class=" link"
+                            href="/website-maker/preview/lang/template/117/?backUrl=ar%2Fwebsites%2Fpersonal#comp-1720d9d1829">Portfolio</a>
+                    </div>
+                </div>
+                <div class="ProjectLinksstyled__Wrap-sc-1akbv98-0 dSNEFa">
+                    <div class="link-wrapper "><a id="header_link_4" class=" link"
+                            href="/website-maker/preview/lang/template/117/?backUrl=ar%2Fwebsites%2Fpersonal#comp-17209551ee2">Contact</a>
+                    </div>
+                </div>
+            </nav>
+        </div>
+        <div class="ProjectLinksstyled__Mobile-sc-1akbv98-12 edXuVC">
+            <div class="mobile-navbar-container ProjectLinksstyled__MobileNavbarContainer-sc-1akbv98-10 dJVGmk">
+                <div class="ProjectLinksstyled__HamburgerIcon-sc-1akbv98-13 bgPpPt styled__SvgIcon-sc-1mehu68-0 hVcOKn"
+                    data-name=""><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+                        <path d="M4 8h24v2.688H4V8zm0 9.313v-2.625h24v2.625H4zM4 24v-2.688h24V24H4z"></path>
+                    </svg></div>
+            </div>
+        </div>
+    </div>
+</div>
